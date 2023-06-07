@@ -1,0 +1,5 @@
+*.exe
+Makefile.win
+Project1.layout
+.vscode
+*.o
